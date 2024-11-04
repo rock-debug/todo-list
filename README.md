@@ -15,3 +15,8 @@
 - Type `pip install -r requirements.txt` to install the required packages.
 
 
+# Running the code
+
+1. Open a command prompt and navigate to the directory containing the code.
+2. Make sure the virtual environment is activated.
+3. Type `flask run` to start the Flask server. (You can also use --debug to enable debug mode.)
